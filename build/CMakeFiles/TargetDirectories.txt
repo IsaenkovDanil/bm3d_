@@ -1,0 +1,3 @@
+/home/pekas/bm3d/build/CMakeFiles/bm3d.dir
+/home/pekas/bm3d/build/CMakeFiles/edit_cache.dir
+/home/pekas/bm3d/build/CMakeFiles/rebuild_cache.dir

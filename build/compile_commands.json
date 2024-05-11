@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/pekas/bm3d/build",
+  "command": "/usr/bin/g++  -I/home/pekas/bm3d/PUBLIC -isystem /usr/include/opencv4  -march=native -Wall -Wextra -fopenmp -g -o CMakeFiles/bm3d.dir/bm3d.cpp.o -c /home/pekas/bm3d/bm3d.cpp",
+  "file": "/home/pekas/bm3d/bm3d.cpp"
+},
+{
+  "directory": "/home/pekas/bm3d/build",
+  "command": "/usr/bin/gcc  -I/home/pekas/bm3d/PUBLIC -isystem /usr/include/opencv4  -march=native -Wall -Wextra -fopenmp -g -std=gnu99 -Wno-unused-variable -Wno-unused-parameter -Wno-pointer-sign -Wno-parentheses -Wno-deprecated-declarations -Wno-unused-function -o CMakeFiles/bm3d.dir/iio.c.o -c /home/pekas/bm3d/iio.c",
+  "file": "/home/pekas/bm3d/iio.c"
+},
+{
+  "directory": "/home/pekas/bm3d/build",
+  "command": "/usr/bin/g++  -I/home/pekas/bm3d/PUBLIC -isystem /usr/include/opencv4  -march=native -Wall -Wextra -fopenmp -g -o CMakeFiles/bm3d.dir/lib_transforms.cpp.o -c /home/pekas/bm3d/lib_transforms.cpp",
+  "file": "/home/pekas/bm3d/lib_transforms.cpp"
+},
+{
+  "directory": "/home/pekas/bm3d/build",
+  "command": "/usr/bin/g++  -I/home/pekas/bm3d/PUBLIC -isystem /usr/include/opencv4  -march=native -Wall -Wextra -fopenmp -g -o CMakeFiles/bm3d.dir/main.cpp.o -c /home/pekas/bm3d/main.cpp",
+  "file": "/home/pekas/bm3d/main.cpp"
+},
+{
+  "directory": "/home/pekas/bm3d/build",
+  "command": "/usr/bin/g++  -I/home/pekas/bm3d/PUBLIC -isystem /usr/include/opencv4  -march=native -Wall -Wextra -fopenmp -g -o CMakeFiles/bm3d.dir/utilities.cpp.o -c /home/pekas/bm3d/utilities.cpp",
+  "file": "/home/pekas/bm3d/utilities.cpp"
+}
+]
